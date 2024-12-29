@@ -9,7 +9,7 @@
 <a href="https://praktikum.notion.site/1-0-c5203c01f07f4ba096d4534efe620a26">_Требования версия 1.0_</a> и <a href="https://praktikum.notion.site/2-0-f68f4fa509fe45c88539c58fd9ec70c5">_требования версия 2.0_</a>
 
 * Составлена <a href="https://drive.google.com/file/d/1B-yapWdYX8rbGsn5E5FEvPDomdr9vkLI/view?usp=sharing">mindmap</a> сервиса “Яндекс Маршруты”
-* Написаны и выполнены проверки <a href="https://drive.google.com/file/d/1XjcFUqyG232tFs78ITdr1YaOtFHaS_sg/view?usp=drive_link">тестовые данные в Qase</a> и <a href="https://drive.google.com/file/d/1dRo2rCw1GyF8LEHk-4dA1X2ds2pQcluH/view?usp=sharing"></a>
+* Написаны и выполнены проверки <a href="https://drive.google.com/file/d/1XjcFUqyG232tFs78ITdr1YaOtFHaS_sg/view?usp=drive_link">тестовые данные в Qase</a> и <a href="https://drive.google.com/file/d/1dRo2rCw1GyF8LEHk-4dA1X2ds2pQcluH/view?usp=sharing">скриншоты</a>
 * Оформлены баг-репорты <a href="https://bugulniklist.youtrack.cloud/projects/ce3d8904-d0d6-4eab-9518-b07b9d6f6294">баг-репорты</a>
 * Составлены <a href="https://docs.google.com/spreadsheets/d/1-UWJaSUE2SjkxDURgBwt7tZtUt52tgiVMCF76r8wLjg/edit?usp=sharing">проверки для полей ввода</a>
 * Оформлены <a href="https://bugulniklist.youtrack.cloud/projects/c9a38bbb-3bbe-49e4-a3e4-04fa90cbbe70">баг-репорты</a>
